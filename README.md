@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Khant Thit Oo
+- 👀 Computer Science is my Passion
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me [...](https://www.facebook.com/profile.php?id=100092623333274&mibextid=ZbWKwL)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I also do some Game Dev with C#
