@@ -1,4 +1,4 @@
-🚀 Experienced Web Developer & Python Programmer
+🚀 Web Developer & Python Programmer
 
 Hello there! I'm Trev Brown, a passionate web developer with expertise in crafting dynamic and responsive websites and applications. With a strong foundation in HTML, CSS, and JavaScript, coupled with proficiency in React and React Native, I specialize in bringing your ideas to life with intuitive user interfaces and seamless user experiences.
 
